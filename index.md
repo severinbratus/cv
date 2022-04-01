@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Severin Bratus' CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Severin Bratus
+Passionate about programming, with a preference for functional programming and artificial intelligence.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="s.poletica@gmail.com">s.poletica@gmail.com</a>
+| <a href="https://github.com/severinbratus/">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying first-year at Delft University of Technology for BSc in Computer Science and Engineering
 
-### Specialized in
+### Nationality
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Estonian
 
+### Language Skills
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Fluent in Russian (as the mother-tongue), English, and Estonian.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2018 - June 2021`
+__Tallinn Secondary School of Science (Tallinna Reaalkool)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Upper Secondary Education, with a specialization on mathematics, natural sciences, and programming.
 
-- Sizar
+`September 2021 - now`
+__Delft University of Technology__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- BSc in Computer Science and Engineering
 
-- Fellow
+### Online courses
 
+`September 2020`
+__Moscow Institute of Physics and Technology & Yandex__
+[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341)
 
+- Covered: fundamentals of machine learning, probability theory, statistics, linear algebra and optimisation; Python libraries, such as `numpy`, `pandas` and `matplotlib`.
 
-## Awards
+`October 2020`
+[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)
 
-`2012`
-President, *Royal Society*, London, UK
+- Covered: fundamentals of group theory; interpretation of geometry through group theory.
 
-Associate, *French Academy of Science*, Paris, France
+### Programming languages
 
+- *Python*
+- *Clojure*
+- JavaScript
+- C / C++ 
+- Java
+- R
+- SQL
+- LaTeX
+- Bash
 
+## Work experience
 
-## Publications
+`October 2020 - May 2021`
+__Tallinn Secondary School of Science__, Tallinn
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Computer Class Instructor
+- Instructing pupils of grades 5-9 in computer programming, mainly Unity and C#
 
-### Journals
+### Hobbies & Interests
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Competitive programming
+- Cooking
+- Typography & typesetting
+- Literature
+- Music
+- Cinematography
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Apr 2022 -->
