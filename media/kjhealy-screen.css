@@ -71,10 +71,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	/* font-size: 60%; */
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #888;
 }
 
 p code {
@@ -89,6 +89,12 @@ ul {
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+}
+
+.columnize {
+	columns: 3;
+	-webkit-columns: 3;
+	-moz-columns: 3;
 }
 
 /*uncomment to get dashes in the list*/

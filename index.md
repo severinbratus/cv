@@ -1,19 +1,18 @@
 ---
 layout: cv
-title: Severin Bratus' CV
+title: Severin Bratus
 ---
 # Severin Bratus
-Passionate about programming, with a preference for functional programming and artificial intelligence.
+Passionate about (functional) programming and AI
 
 <div id="webaddress">
 <a href="s.poletica@gmail.com">s.poletica@gmail.com</a>
 | <a href="https://github.com/severinbratus/">GitHub</a>
 </div>
 
-
 ## Currently
 
-Studying first-year at Delft University of Technology for BSc in Computer Science and Engineering
+Studying first-year at TU Delft for BSc in Computer Science and Engineering
 
 ### Nationality
 
@@ -21,61 +20,74 @@ Estonian
 
 ### Language Skills
 
-Fluent in Russian (as the mother-tongue), English, and Estonian.
+Fluent in Russian, English, and Estonian.
 
 ## Education
 
-`September 2018 - June 2021`
+`2018 - 2021`
 __Tallinn Secondary School of Science (Tallinna Reaalkool)__
 
 - Upper Secondary Education, with a specialization on mathematics, natural sciences, and programming.
 
-`September 2021 - now`
+`2021 - ...`
 __Delft University of Technology__
 
 - BSc in Computer Science and Engineering
 
 ### Online courses
 
-`September 2020`
-__Moscow Institute of Physics and Technology & Yandex__
-[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341)
+`2020`
+__[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__
+_Moscow Institute of Physics and Technology & Yandex_
 
-- Covered: fundamentals of machine learning, probability theory, statistics, linear algebra and optimisation; Python libraries, such as `numpy`, `pandas` and `matplotlib`.
+- Covered: fundamentals of machine learning, probability theory, statistics, linear algebra and optimisation; Python libraries, such as *numpy*, *pandas* and *matplotlib*.
 
-`October 2020`
-[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)
+`2020`
+__[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__
+_Moscow Institute of Physics and Technology & Dmitry Pozharsky University_
 
 - Covered: fundamentals of group theory; interpretation of geometry through group theory.
 
-### Programming languages
+## Technical skills
 
+{: .columnize }
 - *Python*
-- *Clojure*
-- JavaScript
-- C / C++ 
+- Clojure
 - Java
-- R
+- JavaScript
+- Node.js
+- C & C++ 
 - SQL
 - LaTeX
+- UNIX
 - Bash
+- pandas
+- Git
+- Web scraping
+- Selenium
 
 ## Work experience
 
-`October 2020 - May 2021`
-__Tallinn Secondary School of Science__, Tallinn
+`2020 - 2021`
+__Tallinn Secondary School of Science__
 
-- Computer Class Instructor
-- Instructing pupils of grades 5-9 in computer programming, mainly Unity and C#
+- Computer Class Instructor, instructing pupils of grades 5-9 in computer programming, mainly Unity and C#.
+
+## Reseach projects
+
+`2020`
+__Gender stereotypes in Estonian word embeddings__, _Tallinn Secondary School of Science_
+
+- A research paper in the area of machine learning for natural language processing, on the topic of gender bias in language models based on Estonian text. The study received multiple awards at the Estonian National Contest of Young Scientists, including a 3rd degree monetary premium, and an invitation to the EU Contest for Young Scientists 20/21.
 
 ### Hobbies & Interests
 
+{: .columnize }
 - Competitive programming
 - Cooking
 - Typography & typesetting
-- Literature
-- Music
-- Cinematography
+- Literature, music & cinematography
+- Weightlifting
 
 <!-- ### Footer
 
