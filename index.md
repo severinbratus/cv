@@ -21,7 +21,7 @@ Estonian
 
 ### Language Skills
 
-Fluent in Russian, English, and Estonian.
+Fluent in Russian, English, and Estonian
 
 ## Education
 
