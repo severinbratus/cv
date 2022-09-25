@@ -1,1 +1,4 @@
-@import "mine-print.css"
+body {
+    width: 57em;
+    margin: 7em auto;
+}
