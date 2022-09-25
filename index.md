@@ -2,94 +2,141 @@
 layout: cv
 title: Severin Bratus
 ---
-# Severin Bratus
-Passionate about (functional) programming and AI
 
-<div id="webaddress">
-<a href="mailto:s.poletica@gmail.com">s.poletica@gmail.com</a>
+{::options parse_block_html="true" /}
+
+# Severin Bratus
+<!-- Passionate about (functional) programming and AI -->
+
+<div id="contact">
+<!-- <a href="mailto:s.poletica@gmail.com">s.poletica@gmail.com</a> -->
+s.poletica@gmail.com
 | <a href="https://github.com/severinbratus/">GitHub</a>
 | <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn</a>
 </div>
 
-## Currently
+<!-- ## Currently -->
 
-Second-year student at TU Delft for BSc in Computer Science and Engineering
-
-### Citizenship
-
-Estonian
-
-### Language Skills
-
-Fluent in Russian, English, and Estonian
+<!-- - Second-year student at TU Delft for BSc in Computer Science and Engineering -->
 
 ## Education
 
-`Sep 2018 -- `<br/>`Jun 2021`
-__Tallinn Secondary School of Science (Tallinna Reaalkool)__
+__Delft University of Technology__, BSc in Computer Science and Engineering <span align="right" style="display: block; float: right" class="date">
+  Sep 2021 -- Jun 2024
+</span>
 
-- Upper Secondary Education, with a specialization on mathematics, natural sciences, and programming.
+- GPA: 8.5 / 10
+- Honours programme
+- Coursework:
 
-`Sep 2021 -- `<br/>`Jun 2024`
-__Delft University of Technology__
+{: .columnize3 .indent }
+  - Object-Oriented Programming
+  - OOP Team Project
+  - Software Quality & Testing
+  - Reasoning & Logic
+  - Algorithms & Data Structures
+  - Computer Organisation
+  - Computer Networks
+  - Calculus
+  - Linear Algebra
+  - Probability Theory & Statistics
+  - Web & Database Technology
+  - Information & Data Management
+  - Machine Learning
+  - Big Data Processing
+  - Computer Graphics
 
-- BSc in Computer Science and Engineering
 
-### Online courses
+## Experience
 
-`Sep 2020`
-__[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__
+__Software Engineering Intern__ \| [DuckDuckGoose](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
+  Delft, Netherlands | Since Jun 2022
+</span>
 
-- _Moscow Institute of Physics and Technology & Yandex_
-- Covered: fundamentals of machine learning, probability theory, statistics, linear algebra and optimisation; Python libraries, such as *numpy*, *pandas* and *matplotlib*.
 
-`Oct 2020`
-__[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__
+- Designed, built, and maintained a machine learning dataset collection pipeline with a combination of task automation and API reverse-engineering techniques, programming mostly in Python and Bash.
+- Implemented, tested and documented modifications in the main software-as-a-service API of the company.
+- Worked on spoofing camera-based ID verification in mobile apps (e.g. banking apps) with use of the [Frida](frida.re) toolkit.
 
-- _Moscow Institute of Physics and Technology & Dmitry Pozharsky University_
-- Covered: fundamentals of group theory; interpretation of geometry through group theory.
+__Programming Class Teaching Assistant__
+<span align="right" style="display: block; float: right" class="date">
+  Tallinn, Estonia | Oct 2020 -- May 2021
+</span>
 
-## Technical skills
-
-{: .columnize }
-- *Python*
-- Clojure
-- Java
-- JavaScript
-- TypeScript
-- Node.js
-- C & C++ 
-- SQL
-- LaTeX
-- UNIX
-- Bash
-- pandas
-- Git
-- Web scraping
-- Selenium
-
-## Work experience
-
-`Oct 2020 -- `<br/>`May 2021`
-__Programming Class Teacher, Part-time__  <br/>
-_Tallinn Secondary School of Science_
-
-- Instructed pupils of grades 5-9 in computer programming, mainly for game development in Unity with C#.
-
-`Jun 2020 -- `<br/>`...`
-__Developer Intern, Full-time__ <br/>
-_DuckDuckGoose, Delft_
-
-- Realized a machine learning dataset collection pipeline with use of task automation and API reverse-engineering techniques, mostly writing in Python and Bash.
+- Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity and C#.
 
 ## Reseach projects
 
-`May 2020`
-__Gender stereotypes in Estonian word embeddings__ <br/>
-_Tallinn Secondary School of Science_
+<div id="research-projects-">
 
-- A research paper in the area of machine learning for natural language processing, on the topic of gender bias in language models based on Estonian text. The study received multiple awards at the Estonian National Contest of Young Scientists, including a 3rd degree monetary premium, and an invitation to the EU Contest for Young Scientists 20/21.
+__Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
+<span align="right" style="display: block; float: right" class="date">
+  Tallinn, Estonia | May 2020
+</span>
+
+- Research paper on societal bias in machine learning, natural language processing.
+- Presented at the EU Contest for Young Scientists 2021.
+- Received awards from:
+  - Estonian National Contest for Young Scientists 2021 (III place)
+  - Institute of the Estonian Language
+  - Ministry of Economic Affairs and Communications
+  - Ministry of Social Affairs
+  - *Horisont* magazine
+  
+</div>
+
+## Personal projects
+
+<div id="personal-projects-">
+
+<!-- {: .columnize2 } -->
+__Cheat Chess__ \| [GitHub](https://github.com/severinbratus/cheat-chess/tree/main)
+- A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant.
+
+<!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
+__Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
+- Shell scripts to use a terminal-based file manager as a file picker in a Chromium-like browser, by mocking the default KDE file dialog.
+<!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
+
+</div>
+
+## Skills
+
+{: .columnize3 }
+- Python
+- C & C++ 
+- Linux
+- Bash
+- Clojure
+- Java
+- TypeScript & Node.js
+- AWS Lambda
+- SQL
+- Git
+- Web scraping
+
+
+<!-- ## Online courses -->
+
+<!-- __[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__. Moscow Institute of Physics and Technology & Yandex, Sep 2020 -->
+
+<!-- {: .columnize3 } -->
+<!-- - Machine learning -->
+<!-- - Probability theory and statistics -->
+<!-- - Linear algebra -->
+<!-- - numpy -->
+<!-- - pandas -->
+<!-- - matplotlib -->
+
+<!-- __[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__. Moscow Institute of Physics and Technology & Dmitry Pozharsky University, Oct 2020 -->
+
+<!-- {: columnize2 } -->
+<!-- - Interpretation of geometry through group theory. -->
+
+<!-- ## Volunteering -->
+
+<!-- __EU Contest for Young Scientists__. Leiden, Sep 2022 -->
 
 <!-- ### Footer
 
-Last updated: Apr 2022 -->
+Last updated: Aug 2022 -->
