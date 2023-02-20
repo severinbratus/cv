@@ -49,7 +49,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 
 ## Experience
 
-__Software Engineering Intern__ \| [DuckDuckGoose](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
+__Software Engineer__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
   Delft, Netherlands | Since Jun 2022
 </span>
 
