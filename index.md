@@ -26,7 +26,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 </span>
 
 - GPA: 8.5 / 10
-- Honours programme
+- Honours programme with a research project in Reinforcement Learning
 - Coursework:
 
 {: .columnize3 .indent }
