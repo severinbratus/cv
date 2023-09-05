@@ -116,29 +116,28 @@ __Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
 - Web scraping
 - Apache Spark & Flink
 
+<!-- ## Online courses -->
 
-## Online courses
+<!-- __[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__ | Moscow Institute of Physics and Technology & Yandex  -->
+<!-- <span align="right" style="display: block; float: right" class="date"> -->
+<!--   Sep 2020 -->
+<!-- </span> -->
 
-__[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__ | Moscow Institute of Physics and Technology & Yandex 
-<span align="right" style="display: block; float: right" class="date">
-  Sep 2020
-</span>
+<!-- {: .columnize3 } -->
+<!-- - Machine learning -->
+<!-- - Probability theory and statistics -->
+<!-- - Linear algebra -->
+<!-- - numpy -->
+<!-- - pandas -->
+<!-- - matplotlib -->
 
-{: .columnize3 }
-- Machine learning
-- Probability theory and statistics
-- Linear algebra
-- numpy
-- pandas
-- matplotlib
+<!-- __[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__ | Moscow Institute of Physics and Technology & Dmitry Pozharsky University -->
+<!-- <span align="right" style="display: block; float: right" class="date"> -->
+<!--   Oct 2020 -->
+<!-- </span> -->
 
-__[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__ | Moscow Institute of Physics and Technology & Dmitry Pozharsky University
-<span align="right" style="display: block; float: right" class="date">
-  Oct 2020
-</span>
-
-{: columnize2 }
-- Interpretation of geometry through group theory.
+<!-- {: columnize2 } -->
+<!-- - Interpretation of geometry through group theory. -->
 
 ## Volunteering
 
