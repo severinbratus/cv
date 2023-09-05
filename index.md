@@ -174,10 +174,21 @@ __Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
 
 ## Volunteering
 
-__EU Contest for Young Scientists__
+__EU Contest for Young Scientists '22__
 <span align="right" style="display: block; float: right" class="date">
   Leiden, Netherlands | Sep 2022
 </span>
+
+__EU Contest for Young Scientists '23__
+<span align="right" style="display: block; float: right" class="date">
+  Bruxelles, Belgium | Sep 2023
+</span>
+
+__TU Delft Book Club__
+<span align="right" style="display: block; float: right" class="date">
+  2023--24
+</span>
+
 
 <!-- ### Footer
 
