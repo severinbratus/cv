@@ -65,7 +65,7 @@ __Programming Class Teaching Assistant__
 
 - Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity and C#.
 
-## Reseach projects
+## Research projects
 
 <div id="research-projects-">
 
