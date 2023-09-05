@@ -30,7 +30,7 @@ a {
     color: inherit;
 }
 
-a:hover, #personal-projects- a, #contact a, #research-projects- a, .exc a {
+a:hover, #personal-projects a, #contact a, #research-projects a, .exc a, #coursework-projects a {
 	color: #39f;
 }
 

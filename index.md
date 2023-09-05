@@ -48,7 +48,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
   - Reasoning & Logic (9.5)
   - Calculus
   - Linear Algebra
-  - Probability & Statistics (10)
+  - Probability & Statistics (10.0)
 <!-- Data -->
   - Machine Learning (9.0)
   - Big Data Processing (9.0)
@@ -59,14 +59,13 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
   - Information & Data Management
 <!-- Misc -->
   - Computer Graphics
-  - Programming Languages (10)
+  - Programming Languages (10.0)
 
 ## Experience
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
   Delft, Netherlands | Since Jun 2022
 </span>
-
 
 - Designed, built, and maintained a machine learning dataset collection pipeline with a combination of task automation and API reverse-engineering techniques, programming mostly in Python and Bash.
 - Implemented, tested and documented modifications in the main software-as-a-service API of the company.
@@ -77,11 +76,11 @@ __Programming Class Teaching Assistant__
   Tallinn, Estonia | Oct 2020 -- May 2021
 </span>
 
-- Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity and C#.
+- Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity & C#.
 
 ## Research projects
 
-<div id="research-projects-">
+<div id="research-projects">
 
 __Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 <span align="right" style="display: block; float: right" class="date">
@@ -99,9 +98,31 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.
   
 </div>
 
+## Coursework team projects
+
+<div id="coursework-projects">
+
+__Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
+Bayesian Deep Learning \| [Link](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+<span align="right" style="display: block; float: right" class="date">
+  Apr -- Jun 2023
+</span>
+
+__Software Engineering Methods:__ A microservice-based HR management system in Java
+<span align="right" style="display: block; float: right" class="date">
+  Nov -- Dec 2022
+</span>
+
+__Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
+<span align="right" style="display: block; float: right" class="date">
+  Oct 2022
+</span>
+
+</div>
+
 ## Personal projects
 
-<div id="personal-projects-">
+<div id="personal-projects">
 
 <!-- {: .columnize2 } -->
 __Cheat Chess__ \| [GitHub](https://github.com/severinbratus/cheat-chess/tree/main)
