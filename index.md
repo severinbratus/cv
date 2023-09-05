@@ -78,9 +78,9 @@ __Programming Class Teaching Assistant__
 
 - Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity & C#.
 
-## Research projects
+<div id="section-research-projects">
 
-<div id="research-projects">
+## Research projects
 
 __Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 <span align="right" style="display: block; float: right" class="date">
@@ -98,9 +98,27 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.
   
 </div>
 
-## Coursework team projects
+<div id="section-skills">
 
-<div id="coursework-projects">
+## Skills
+
+{: .columnize3 }
+- Python
+- C & C++ 
+- Julia
+- Linux, Bash, Git
+- Clojure
+- Java
+- TypeScript, Node.js
+- SQL
+- Web scraping
+- Apache Spark & Flink
+
+</div>
+
+<div id="section-coursework-projects">
+
+## Coursework team projects
 
 __Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
 Bayesian Deep Learning \| [Link](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
@@ -120,9 +138,9 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 
 </div>
 
-## Personal projects
+<div id="section-personal-projects">
 
-<div id="personal-projects">
+## Personal projects
 
 <!-- {: .columnize2 } -->
 __Cheat Chess__ \| [GitHub](https://github.com/severinbratus/cheat-chess/tree/main)
@@ -134,20 +152,6 @@ __Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
 <!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
 
 </div>
-
-## Skills
-
-{: .columnize3 }
-- Python
-- C & C++ 
-- Julia
-- Linux, Bash, Git
-- Clojure
-- Java
-- TypeScript, Node.js
-- SQL
-- Web scraping
-- Apache Spark & Flink
 
 <!-- ## Online courses -->
 
@@ -186,9 +190,8 @@ __EU Contest for Young Scientists '23__
 
 __TU Delft Book Club__
 <span align="right" style="display: block; float: right" class="date">
-  2023--24
+  2023 -- 24
 </span>
-
 
 <!-- ### Footer
 

@@ -30,7 +30,7 @@ a {
     color: inherit;
 }
 
-a:hover, #personal-projects a, #contact a, #research-projects a, .exc a, #coursework-projects a {
+a:hover, #section-personal-projects a, #contact a, #section-research-projects a, .exc a, #section-coursework-projects a {
 	color: #39f;
 }
 
@@ -86,3 +86,7 @@ p {
 .date {
     color: #666;
 }
+
+/* #section-skills { */
+/*     page-break-after: always; */
+/* } */
