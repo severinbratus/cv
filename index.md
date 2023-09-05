@@ -22,34 +22,48 @@ s.poletica@gmail.com
 ## Education
 
 __Delft University of Technology__, BSc in Computer Science and Engineering <span align="right" style="display: block; float: right" class="date">
-  Sep 2021 -- Jun 2024
+  Sep 2021 -- Jun 2024 (expected)
 </span>
 
-- GPA: 8.5 / 10
-- Honours programme with a research project in Reinforcement Learning
+- GPA: 8.6 / 10
+- Minor in Finance (ongoing)
+- Honours programme with a research project in Reinforcement Learning (ongoing)
 - Coursework:
 
 {: .columnize3 .indent }
+<!-- SWE -->
   - Object-Oriented Programming
   - OOP Team Project
+  - Software Engineering Methods
   - Software Quality & Testing
-  - Reasoning & Logic
+  - Software Project (9.0)
+<!-- Algo -->
   - Algorithms & Data Structures
-  - Computer Organisation
-  - Computer Networks
+  - Algorithm Design
+  - Automata & Computability
+<!-- Low-level -->
+  - Computer Organisation (9.5)
+  - Computer Networks (9.5)
+<!-- Maths -->
+  - Reasoning & Logic (9.5)
   - Calculus
   - Linear Algebra
-  - Probability Theory & Statistics
+  - Probability & Statistics (10)
+<!-- Data -->
+  - Machine Learning (9.0)
+  - Big Data Processing (9.0)
+  - Data Mining (9.0)
+  - Computational Intelligence
+<!-- DB -->
   - Web & Database Technology
   - Information & Data Management
-  - Machine Learning
-  - Big Data Processing
+<!-- Misc -->
   - Computer Graphics
-
+  - Programming Languages (10)
 
 ## Experience
 
-__Software Engineer__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
+__Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
   Delft, Netherlands | Since Jun 2022
 </span>
 
@@ -105,6 +119,7 @@ __Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
 {: .columnize3 }
 - Python
 - C & C++ 
+- Julia
 - Linux
 - Bash
 - Clojure
