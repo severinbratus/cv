@@ -120,14 +120,11 @@ __Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
 - Python
 - C & C++ 
 - Julia
-- Linux
-- Bash
+- Linux, Bash, Git
 - Clojure
 - Java
-- TypeScript & Node.js
-- AWS Lambda
+- TypeScript, Node.js
 - SQL
-- Git
 - Web scraping
 - Apache Spark & Flink
 
