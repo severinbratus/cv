@@ -64,7 +64,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 ## Experience
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
-  Delft, Netherlands | Since Jun 2022
+  Delft, Netherlands | Jun 2022 -- Mar 2023
 </span>
 
 - Designed, built, and maintained a machine learning dataset collection pipeline with a combination of task automation and API reverse-engineering techniques, programming mostly in Python and Bash.
