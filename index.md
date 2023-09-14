@@ -190,7 +190,7 @@ __EU Contest for Young Scientists '23__
 
 __TU Delft Book Club__
 <span align="right" style="display: block; float: right" class="date">
-  2023 -- 24
+  Sep 2023 -- Jun 2024
 </span>
 
 <!-- ### Footer
