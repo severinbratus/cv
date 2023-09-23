@@ -60,6 +60,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 <!-- Misc -->
   - Computer Graphics
   - Programming Languages (10.0)
+  - McDermott R&D Challenge
 
 ## Experience
 
