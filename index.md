@@ -25,7 +25,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
   Sep 2021 -- Jun 2024 (expected)
 </span>
 
-- GPA: 8.6 / 10
+- GPA: NL 8.6 / 10 (US 4.0, UK first class honours)
 - Minor in Finance (ongoing)
 - Honours programme with a research project in Reinforcement Learning (ongoing)
 - Coursework:
