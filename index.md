@@ -34,13 +34,13 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 {: .columnize3 .indent }
 <!-- SWE -->
   - Object-Oriented Programming
-  - OOP Team Project
-  - Software Engineering Methods
-  - Software Quality & Testing
+  - OOP Team Project (8.5)
+  - Software Engineering Methods (8.5)
+  - Software Quality & Testing (8.5)
   - Software Project (9.0)
 <!-- Algo -->
   - Algorithms & Data Structures
-  - Algorithm Design
+  - Algorithm Design (8.5)
   - Automata & Computability
 <!-- Low-level -->
   - Computer Organisation (9.5)
@@ -48,13 +48,13 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 <!-- Maths -->
   - Reasoning & Logic (9.5)
   - Calculus
-  - Linear Algebra
+  - Linear Algebra (8.5)
   - Probability & Statistics (10.0)
 <!-- Data -->
   - Machine Learning (9.0)
   - Big Data Processing (9.0)
   - Data Mining (9.0)
-  - Computational Intelligence
+  - Computational Intelligence (8.5)
 <!-- DB -->
   - Web & Database Technology
   - Information & Data Management
