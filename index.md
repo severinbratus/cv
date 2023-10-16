@@ -13,6 +13,7 @@ title: Severin Bratus
 s.poletica@gmail.com
 | <a href="https://github.com/severinbratus/">GitHub</a>
 | <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn</a>
+| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv</a>
 </div>
 
 <!-- ## Currently -->
