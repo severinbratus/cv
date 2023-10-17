@@ -35,7 +35,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 <!-- SWE -->
   - Object-Oriented Programming
   - OOP Team Project (8.5)
-  - Software Engineering Methods (8.5)
+  - Software Eng. Methods (8.5)
   - Software Quality & Testing (8.5)
   - Software Project (9.0)
 <!-- Algo -->
@@ -190,7 +190,7 @@ __EU Contest for Young Scientists '23__
   Bruxelles, Belgium | Sep 2023
 </span>
 
-__TU Delft Book Club__
+__TU Delft Book Club '23--'24__
 <span align="right" style="display: block; float: right" class="date">
   Sep 2023 -- Jun 2024
 </span>
