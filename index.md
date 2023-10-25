@@ -11,9 +11,9 @@ title: Severin Bratus
 <div id="contact">
 <!-- <a href="mailto:s.poletica@gmail.com">s.poletica@gmail.com</a> -->
 s.poletica@gmail.com
-| <a href="https://github.com/severinbratus/">GitHub</a>
-| <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn</a>
-| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv</a>
+| <a href="https://github.com/severinbratus/">GitHub↗</a>
+| <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn↗</a>
+| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv↗</a>
 </div>
 
 <!-- ## Currently -->
@@ -84,7 +84,7 @@ __Programming Class Teaching Assistant__
 
 ## Research projects
 
-__Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
+__Gender stereotypes in Estonian word embeddings__ \|  [Poster↗](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 <span align="right" style="display: block; float: right" class="date">
   Tallinn, Estonia | May 2020
 </span>
@@ -123,7 +123,7 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Link](https://eucys2021.
 ## Coursework team projects
 
 __Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
-Bayesian Deep Learning \| [Link](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+Bayesian Deep Learning \| [Article↗](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
 <span align="right" style="display: block; float: right" class="date">
   Apr -- Jun 2023
 </span>
@@ -145,11 +145,11 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 ## Personal projects
 
 <!-- {: .columnize2 } -->
-__Cheat Chess__ \| [GitHub](https://github.com/severinbratus/cheat-chess/tree/main)
+__Cheat Chess__ \| [GitHub↗](https://github.com/severinbratus/cheat-chess/tree/main)
 - A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant.
 
 <!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
-__Kdialogs__ \| [GitHub](https://github.com/severinbratus/kdialogs)
+__Kdialogs__ \| [GitHub↗](https://github.com/severinbratus/kdialogs)
 - Shell scripts to use a terminal-based file manager as a file picker in a Chromium-like browser, by mocking the default KDE file dialog.
 <!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
 
