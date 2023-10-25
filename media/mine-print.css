@@ -14,15 +14,15 @@ body {
 }
 
 .columnize3 {
-	columns: 3;
-	-webkit-columns: 3;
-	-moz-columns: 3;
+    columns: 3;
+    -webkit-columns: 3;
+    -moz-columns: 3;
 }
 
 .columnize2 {
-	columns: 2;
-	-webkit-columns: 2;
-	-moz-columns: 2;
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
 }
 
 a {
@@ -31,23 +31,23 @@ a {
 }
 
 a:hover, #section-personal-projects a, #contact a, #section-research-projects a, .exc a, #section-coursework-projects a {
-	color: #39f;
+    color: #39f;
 }
 
 #contact {
-	color: #777;
-	font-family: monospace,sans-serif;
-	font-size: 88%;
+    color: #777;
+    font-family: monospace,sans-serif;
+    font-size: 88%;
     margin-top: 0.33rem;
 }
 
 #contact a {
-	text-decoration: none;
+    text-decoration: none;
 }
 
 #ghbutton {
-	display: none;
-	visibility: hidden;
+    display: none;
+    visibility: hidden;
 }
 
 h1 {
@@ -87,6 +87,6 @@ p {
     color: #666;
 }
 
-/* #section-skills { */
-/*     page-break-after: always; */
-/* } */
+.pb {
+    page-break-before: always;
+}
