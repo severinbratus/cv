@@ -65,6 +65,14 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 
 ## Experience
 
+__Non-financial Risk Analytics Engineer Intern__ \| Van Lanschot Kempen <span align="right" style="display: block; float: right" class="date">
+  Amsterdam, Netherlands | Dec 2023 -- Mar 2024
+</span>
+
+__Head Teaching Assistant in CSE2525 Data Mining__ \| TU Delft <span align="right" style="display: block; float: right" class="date">
+  Delft, Netherlands | Nov 2023 -- Feb 2024
+</span>
+
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai) <span align="right" style="display: block; float: right" class="date">
   Delft, Netherlands | Jun 2022 -- Mar 2023
 </span>
@@ -119,6 +127,8 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster↗](https://eucys
 </div>
 
 <div id="section-coursework-projects">
+
+<!-- <div class="pb"> </div> -->
 
 ## Coursework team projects
 
