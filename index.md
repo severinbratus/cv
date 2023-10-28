@@ -65,7 +65,7 @@ __Delft University of Technology__, BSc in Computer Science and Engineering <spa
 
 ## Experience
 
-__Non-financial Risk Analytics Engineer Intern__ \| Van Lanschot Kempen <span align="right" style="display: block; float: right" class="date">
+__GPT-based Knowledge Base Engineer Intern__ \| Van Lanschot Kempen <span align="right" style="display: block; float: right" class="date">
   Amsterdam, Netherlands | Dec 2023 -- Mar 2024
 </span>
 
