@@ -3,6 +3,7 @@ layout: cv
 title: Severin Bratus
 redirect_from:
   - /markdown-cv
+  - /markdown-cv/
 ---
 
 {::options parse_block_html="true" /}
