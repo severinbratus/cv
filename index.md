@@ -6,7 +6,6 @@ title: Severin Bratus
 {::options parse_block_html="true" /}
 
 # Severin Bratus
-<!-- Passionate about (functional) programming and AI -->
 
 <div id="contact">
 <!-- <a href="mailto:s.poletica@gmail.com">s.poletica@gmail.com</a> -->
@@ -15,10 +14,6 @@ s.poletica@gmail.com
 | <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn↗</a>
 | <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv↗</a>
 </div>
-
-<!-- ## Currently -->
-
-<!-- - Second-year student at TU Delft for BSc in Computer Science and Engineering -->
 
 ## Education
 
