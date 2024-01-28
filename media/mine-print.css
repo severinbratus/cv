@@ -90,3 +90,19 @@ p {
 .pb {
     page-break-before: always;
 }
+
+.date {
+    display: block;
+    float: right;
+    font-style: normal;
+}
+
+.abs-top-right {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.img-size {
+    width: 117px;
+}
