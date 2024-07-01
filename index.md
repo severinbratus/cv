@@ -21,68 +21,71 @@ s.poletica@gmail.com
 
 ## Education
 
-__Delft University of Technology__, BSc in Computer Science and Engineering
-*Sep 2021 -- Jun 2024 (expected)*{: .date}
+__ETH Zürich__, MSc Data Science
+*Sep 2024 -- Jun 2026 (upcoming)*{: .date}
+- Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
-- GPA: NL 8.6 / 10 (US 4.0, UK first class honours, top 10%)
-- Minor in Finance (ongoing)
-- Honours programme with a research project in Reinforcement Learning (ongoing)
-- Coursework (with a specialisation in Data):
+__TU Delft__, BSc Computer Science and Engineering
+*Sep 2021 -- Jun 2024*{: .date}
+
+- Graduated *magna cum laude* (top 10%) with a specialisation in *Data*, and a minor in *Mathematical Finance*
+- Honours programme
+- Coursework (major):
 
 {: .columnize3 .indent }
 <!-- SWE -->
-  - Object-Oriented Programming
-  - OOP Team Project (8.5)
+  - __SWE:__ OOP Team Project (8.5)
   - Software Eng. Methods (8.5)
   - Software Quality & Testing (8.5)
   - Software Project (9.0)
-<!-- Algo -->
-  - Algorithms & Data Structures
-  - Algorithm Design (8.5)
-  - Automata & Computability
-<!-- Low-level -->
-  - Computer Organisation (9.5)
-  - Computer Networks (9.5)
-<!-- Maths -->
-  - Reasoning & Logic (9.5)
-  - Calculus
-  - Linear Algebra (8.5)
-  - Probability & Statistics (10.0)
 <!-- Data -->
-  - Machine Learning (9.0)
+  - __Data__: Machine Learning (9.0)
   - Big Data Processing (9.0)
   - Data Mining (9.0)
   - Computational Intelligence (8.5)
 <!-- DB -->
-  - Web & Database Technology
-  - Information & Data Management
+  - Database Technology & Mgmt
+<!-- Algo -->
+  - __Algo__: Algorithms & Data Structures
+  - Algorithm Design (8.5)
+  - Automata & Computability
+  - Algorithms for NP-Hard Problems
+<!-- Maths -->
+  - __Maths__: Reasoning & Logic (9.5)
+  - Calculus & Linear Algebra (8.5)
+  - Probability & Statistics (10.0)
 <!-- Misc -->
-  - Computer Graphics
+<!-- Low-level -->
+  - __Other__: Computer Graphics
+  - Computer Organisation (9.5)
+  - Computer Networks (9.5)
+  - Computer Security
   - Programming Languages (10.0)
-  - *[Hons]* McDermott R&D Challenge
-  - *[Hons]* Neurosci. Fundamentals
-  - *[Hons]* Convex Optimization
+  - Functional Programming
+  - __Hons__: McDermott R&D Challenge
+  - Neuroscience Fundamentals
+  - Convex Optimization
   
 __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 *Sep 2018 -- Jun 2021*{: .date}
-- Graduated *summa cum laude*, with top marks in all subjects & exams, with a specialisation in programming.
+- Graduated *summa cum laude* (top marks in all subjects & exams), with a specialisation in programming.
 
 ## Experience
 
 __Teaching Assistant, Software Engineer__ \| TU Delft
 *Delft, Netherlands | Feb 2024 -- ...*{: .date}
-
 - Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers (MUDE)* at the Civil Engineering & Geosciences faculty.
+- Developed custom GitHub Actions workflows to deploy course-related books on the web.
 
 __Intern Advanced Analytics & NLP__ \| Van Lanschot Kempen
 *Amsterdam, Netherlands | Dec 2023 -- Jan 2024*{: .date}
+- Worked on applications of natural language processing in Non-Financial Risk Analytics
 
 __Head Teaching Assistant in CSE2525 Data Mining__ \| TU Delft
 *Delft, Netherlands | Nov 2023 -- Feb 2024*{: .date}
-- Assisted students and fellow teaching assistants with questions on lab sessions.
-- Composed weekly FAQ summary reports.
-- Assisted the instructors in producing lab assignment rubrics and reference solutions.
-- Managed communication channels.
+- Assisted students and fellow TAs with questions on lab sessions.
+- Assisted the course instructors in making the lab assignment rubrics and reference solutions.
+- Managed communication channels, and composed weekly FAQ reports.
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai)
 *Delft, Netherlands | Jun 2022 -- Mar 2023*{: .date}
@@ -98,16 +101,20 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoo
 
 ## Research projects
 
+__Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinforcement Learning__ \| [Link↗](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
+*TU Delft | Jun 2024*{: .date}
+- BSc thesis, graded 9.0 / 10.0
+
 __Gender stereotypes in Estonian word embeddings__ \|  [Poster↗](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 *Tallinn, Estonia | May 2020*{: .date}
-- Research paper on societal bias in machine learning, natural language processing.
-- Presented at the EU Contest for Young Scientists 2021.
+<!-- - Research paper on societal bias in machine learning, natural language processing. -->
+<!-- - Presented at the EU Contest for Young Scientists 2021. -->
 - Received awards from:
   - Estonian National Contest for Young Scientists 2021 (III place)
   - Institute of the Estonian Language
   - Ministry of Economic Affairs and Communications, Ministry of Social Affairs
-  - Magaizine *Horisont* Magazine
-  
+  <!-- - Magazine *Horisont* -->
+
 </div>
 
 <div id="section-skills">
@@ -191,10 +198,10 @@ __JuliaCon Local Eindhoven '23__
 ## Membership in clubs
 
 __[Delft AI Safety Initiative↗](https://www.delftaisafety.org/)__
-*Nov 2023 -- ...*{: .date}
+*Nov 2023 -- Jun 2024*{: .date}
 
 __Delft Writing Club__
-*Oct 2023 -- ...*{: .date}
+*Oct 2023 -- Jun 2024*
 
 ## Languages
 
