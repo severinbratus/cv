@@ -10,8 +10,8 @@ title: Severin Bratus CV
 # Severin Bratus
 
 <div id="contact">
-<!-- <a href="mailto:s.poletica@gmail.com">s.poletica@gmail.com</a> -->
-s.poletica@gmail.com
+<!-- <a href="mailto:"> </a> -->
+s.v.bratus@proton.me
 | <a href="https://github.com/severinbratus/">GitHub↗</a>
 | <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn↗</a>
 | <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv↗</a>
@@ -22,7 +22,7 @@ s.poletica@gmail.com
 ## Education
 
 __ETH Zürich__, MSc Data Science
-*Sep 2024 -- Jun 2026 (upcoming)*{: .date}
+*Sep 2024 -- Jun 2026 (expected)*{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
 __TU Delft__, BSc Computer Science and Engineering
@@ -159,7 +159,7 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 ## Personal projects
 
 <!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
-__Linux UVCVideo with Record/Replay__ \| [GitHub↗](https://github.com/severinbratus/uvcvideo-record-replay)
+__Linux UVCVideo with Record/Replay Modes__ \| [GitHub↗](https://github.com/severinbratus/uvcvideo-record-replay)
 *2024*{: .date}
 - Modifications to a Linux webcam driver to record & replay raw frames
 <!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
@@ -201,7 +201,7 @@ __[Delft AI Safety Initiative↗](https://www.delftaisafety.org/)__
 *Nov 2023 -- Jun 2024*{: .date}
 
 __Delft Writing Club__
-*Oct 2023 -- Jun 2024*
+*Oct 2023 -- Jun 2024*{: .date}
 
 ## Languages
 
