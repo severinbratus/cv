@@ -17,7 +17,7 @@ s.poletica@gmail.com
 | <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv↗</a>
 </div>
 
-<!-- __*A 3rd-year BSc CS&E student aiming for a career in engineering & research of machinic intelligence.*__ -->
+<!-- __*A 3rd-year BSc CS&E student aiming for a career in engineering & research of machine intelligence.*__ -->
 
 ## Education
 
@@ -158,16 +158,16 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 
 ## Personal projects
 
+<!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
+__Linux UVCVideo with Record/Replay__ \| [GitHub↗](https://github.com/severinbratus/uvcvideo-record-replay)
+*2024*{: .date}
+- Modifications to a Linux webcam driver to record & replay raw frames
+<!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
+
 <!-- {: .columnize2 } -->
 __Cheat Chess__ \| [GitHub↗](https://github.com/severinbratus/cheat-chess/tree/main)
 *2022*{: .date}
-- A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant.
-
-<!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
-__Kdialogs__ \| [GitHub↗](https://github.com/severinbratus/kdialogs)
-*2022*{: .date}
-- Shell scripts to use a terminal-based file manager as a file picker in a Chromium-like browser, by mocking the default KDE file dialog.
-<!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
+- A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant
 
 </div>
 
