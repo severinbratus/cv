@@ -72,8 +72,8 @@ __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 
 ## Experience
 
-__Teaching Assistant, Software Engineer__ \| TU Delft
-*Delft, Netherlands | Feb 2024 -- ...*{: .date}
+__Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks↗](https://teachbooks.tudelft.nl/)
+*Delft, Netherlands | Feb 2024 -- Dec 2024*{: .date}
 - Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers (MUDE)* at the Civil Engineering & Geosciences faculty.
 - Developed custom GitHub Actions workflows to deploy course-related books on the web.
 
