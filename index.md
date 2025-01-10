@@ -12,9 +12,9 @@ title: Severin Bratus CV
 <div id="contact">
 <!-- <a href="mailto:"> </a> -->
 s.v.bratus@proton.me
-| <a href="https://github.com/severinbratus/">GitHub↗</a>
-| <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn↗</a>
-| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv↗</a>
+| <a href="https://github.com/severinbratus/">GitHub➚</a> <!-- arrows -->
+| <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn➚</a>
+| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv➚</a> 
 </div>
 
 <!-- __*A 3rd-year BSc CS&E student aiming for a career in engineering & research of machine intelligence.*__ -->
@@ -72,7 +72,7 @@ __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 
 ## Experience
 
-__Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks↗](https://teachbooks.tudelft.nl/)
+__Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Delft, Netherlands | Feb 2024 -- Dec 2024*{: .date}
 - Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers (MUDE)* at the Civil Engineering & Geosciences faculty.
 - Developed custom GitHub Actions workflows to deploy course-related books on the web.
@@ -101,11 +101,11 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoo
 
 ## Research projects
 
-__Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinforcement Learning__ \| [Link↗](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
+__Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
 *TU Delft | Jun 2024*{: .date}
 - BSc thesis, graded 9.0 / 10.0
 
-__Gender stereotypes in Estonian word embeddings__ \|  [Poster↗](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
+__Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 *Tallinn, Estonia | May 2020*{: .date}
 <!-- - Research paper on societal bias in machine learning, natural language processing. -->
 <!-- - Presented at the EU Contest for Young Scientists 2021. -->
@@ -143,7 +143,7 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster↗](https://eucys
 ## Coursework team projects
 
 __Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
-Bayesian Deep Learning \| [Article↗](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+Bayesian Deep Learning \| [Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
 *Apr -- Jun 2023*{: .date}
 
 __Software Engineering Methods:__ A microservice-based HR management system in Java
@@ -159,13 +159,13 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 ## Personal projects
 
 <!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
-__Linux UVCVideo with Record/Replay Modes__ \| [GitHub↗](https://github.com/severinbratus/uvcvideo-record-replay)
+__Linux UVCVideo with Record/Replay Modes__ \| [GitHub➚](https://github.com/severinbratus/uvcvideo-record-replay)
 *2024*{: .date}
 - Modifications to a Linux webcam driver to record & replay raw frames
 <!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
 
 <!-- {: .columnize2 } -->
-__Cheat Chess__ \| [GitHub↗](https://github.com/severinbratus/cheat-chess/tree/main)
+__Cheat Chess__ \| [GitHub➚](https://github.com/severinbratus/cheat-chess/tree/main)
 *2022*{: .date}
 - A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant
 
@@ -197,7 +197,7 @@ __JuliaCon Local Eindhoven '23__
 
 ## Membership in clubs
 
-__[Delft AI Safety Initiative↗](https://www.delftaisafety.org/)__
+__[Delft AI Safety Initiative➚](https://www.delftaisafety.org/)__
 *Nov 2023 -- Jun 2024*{: .date}
 
 __Delft Writing Club__
