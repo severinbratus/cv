@@ -28,9 +28,11 @@ __ETH Zürich__, MSc Data Science
 __TU Delft__, BSc Computer Science and Engineering
 *Sep 2021 -- Jun 2024*{: .date}
 
-- Graduated *magna cum laude* (top 10%) with a specialisation in *Data*, and a minor in *Mathematical Finance*
+- Graduated *magna cum laude* (top 10%) with GPA 8.5
+- Specialized in *Data*
+- Minor in *Mathematical Finance*
 - Honours programme
-- Coursework (major):
+- Coursework:
 
 {: .columnize3 .indent }
 <!-- SWE -->
