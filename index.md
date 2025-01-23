@@ -17,7 +17,7 @@ s.v.bratus@proton.me
 | <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv➚</a> 
 </div>
 
-<!-- __*A 3rd-year BSc CS&E student aiming for a career in engineering & research of machine intelligence.*__ -->
+<!-- __*Aiming for a career in engineering & research of machine intelligence.*__ -->
 
 ## Education
 
@@ -74,16 +74,20 @@ __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 
 ## Experience
 
+__Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
+*Zürich, Switzerland | Feb 2025 -- May 2025*{: .date}
+<!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
+
 __Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Delft, Netherlands | Feb 2024 -- Dec 2024*{: .date}
 - Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers (MUDE)* at the Civil Engineering & Geosciences faculty.
 - Developed custom GitHub Actions workflows to deploy course-related books on the web.
 
-__Intern Advanced Analytics & NLP__ \| Van Lanschot Kempen
+__Intern in Advanced Analytics & NLP__ \| Van Lanschot Kempen
 *Amsterdam, Netherlands | Dec 2023 -- Jan 2024*{: .date}
 - Worked on applications of natural language processing in Non-Financial Risk Analytics
 
-__Head Teaching Assistant in CSE2525 Data Mining__ \| TU Delft
+__Head Teaching Assistant in Data Mining__ \| TU Delft
 *Delft, Netherlands | Nov 2023 -- Feb 2024*{: .date}
 - Assisted students and fellow TAs with questions on lab sessions.
 - Assisted the course instructors in making the lab assignment rubrics and reference solutions.
