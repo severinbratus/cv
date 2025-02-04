@@ -21,16 +21,15 @@ s.v.bratus@proton.me
 
 ## Education
 
-__ETH Zürich__, MSc Data Science
-*Sep 2024 -- Jun 2026 (expected)*{: .date}
+__ETH Zürich__, MSc Data Science (ongoing)
+*Sep 2024 -- Jun 2026\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
 __TU Delft__, BSc Computer Science and Engineering
 *Sep 2021 -- Jun 2024*{: .date}
 
-- Graduated *magna cum laude* (top 10%) with GPA 8.5
-- Specialized in *Data*
-- Minor in *Mathematical Finance*
+- Graduated *cum laude* (top 10%) with GPA 8.5
+- Specialized in Data, with a minor in Mathematical Finance
 - Honours programme
 - Coursework:
 
@@ -74,34 +73,35 @@ __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 
 ## Experience
 
-__Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
-*Zürich, Switzerland | Feb 2025 -- May 2025*{: .date}
+__Teaching Assistant in Hands-On Deep Learning__ (upcoming) \| ETH Zürich
+*Feb 2025 -- May 2025\**{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
 __Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
-*Delft, Netherlands | Feb 2024 -- Dec 2024*{: .date}
-- Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers (MUDE)* at the Civil Engineering & Geosciences faculty.
+*Feb 2024 -- Dec 2024*{: .date}
+- Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers* at the Civil Eng. & GeoSc. faculty.
 - Developed custom GitHub Actions workflows to deploy course-related books on the web.
 
 __Intern in Advanced Analytics & NLP__ \| Van Lanschot Kempen
-*Amsterdam, Netherlands | Dec 2023 -- Jan 2024*{: .date}
-- Worked on applications of natural language processing in Non-Financial Risk Analytics
+*Dec 2023 -- Jan 2024*{: .date}
+- Worked on applications of natural language processing in Non-Financial Risk Analytics.
 
 __Head Teaching Assistant in Data Mining__ \| TU Delft
-*Delft, Netherlands | Nov 2023 -- Feb 2024*{: .date}
+*Nov 2023 -- Feb 2024*{: .date}
 - Assisted students and fellow TAs with questions on lab sessions.
 - Assisted the course instructors in making the lab assignment rubrics and reference solutions.
 - Managed communication channels, and composed weekly FAQ reports.
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai)
-*Delft, Netherlands | Jun 2022 -- Mar 2023*{: .date}
-- Designed, built, and maintained a machine learning dataset collection pipeline with a combination of task automation and API reverse-engineering techniques, programming mostly in Python and Bash.
+*Jun 2022 -- Mar 2023*{: .date}
+- Designed, built, and maintained an ML data collection pipeline via task automation and reverse-engineering.
 - Implemented, tested and documented modifications in the main software-as-a-service API of the company.
 - Worked on penetration-testing camera-based ID verification in mobile apps (e.g. banking apps).
 
 <!-- __Programming Class Instructor__ -->
 <!-- *Tallinn, Estonia | Oct 2020 -- May 2021*{: .date} -->
 <!-- - Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity & C#. -->
+
 
 <div id="section-research-projects">
 
@@ -112,7 +112,7 @@ __Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinfo
 - BSc thesis, graded 9.0 / 10.0
 
 __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
-*Tallinn, Estonia | May 2020*{: .date}
+May 2020*{: .date}
 <!-- - Research paper on societal bias in machine learning, natural language processing. -->
 <!-- - Presented at the EU Contest for Young Scientists 2021. -->
 - Received awards from:
@@ -123,14 +123,31 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys
 
 </div>
 
-<div id="section-skills">
-
 <div class="pb"> </div>
+
+<div id="section-coursework-projects">
+
+## Coursework team projects
+
+__Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
+Bayesian Deep Learning \| [Medium Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+*Apr -- Jun 2023*{: .date}
+
+__Software Engineering Methods:__ A microservice-based HR management system in Java
+*Nov -- Dec 2022*{: .date}
+
+__Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
+*Oct 2022*{: .date}
+
+</div>
+
+
+<div id="section-skills">
 
 ## Skills
 
 {: .columnize3 }
-- Python
+- Python, PyTorch
 - C & C++ 
 - Julia
 - Linux, Bash, Git
@@ -143,22 +160,6 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys
 
 </div>
 
-<div id="section-coursework-projects">
-
-
-## Coursework team projects
-
-__Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
-Bayesian Deep Learning \| [Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
-*Apr -- Jun 2023*{: .date}
-
-__Software Engineering Methods:__ A microservice-based HR management system in Java
-*Nov -- Dec 2022*{: .date}
-
-__Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
-*Oct 2022*{: .date}
-
-</div>
 
 <div id="section-personal-projects">
 
@@ -173,9 +174,10 @@ __Linux UVCVideo with Record/Replay Modes__ \| [GitHub➚](https://github.com/se
 <!-- {: .columnize2 } -->
 __Cheat Chess__ \| [GitHub➚](https://github.com/severinbratus/cheat-chess/tree/main)
 *2022*{: .date}
-- A multiplayer chess web-app with highlighting so extensive it should be considered cheating. Includes a fog-of-war chess variant
+- A multiplayer chess web-app. Includes a fog-of-war chess variant
 
 </div>
+
 
 <!-- ## Online courses -->
 
