@@ -69,7 +69,7 @@ __TU Delft__, BSc Computer Science and Engineering
   
 __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 *Sep 2018 -- Jun 2021*{: .date}
-- Graduated *summa cum laude* (top marks in all subjects & exams), with a specialisation in programming.
+- Graduated *summa cum laude* (top marks in all subjects & exams), specialized in programming.
 
 ## Experience
 
