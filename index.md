@@ -28,7 +28,7 @@ __ETH Zürich__, MSc Data Science (ongoing)
 __TU Delft__, BSc Computer Science and Engineering
 *Sep 2021 -- Jun 2024*{: .date}
 
-- Graduated *cum laude* (top 10%) with GPA 8.5
+- Graduated *cum laude* (top 10%) with GPA 8.5 (NL)
 - Specialized in Data, with a minor in Mathematical Finance
 - Honours programme
 - Coursework:
@@ -112,7 +112,7 @@ __Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinfo
 - BSc thesis, graded 9.0 / 10.0
 
 __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
-May 2020*{: .date}
+*May 2020*{: .date}
 <!-- - Research paper on societal bias in machine learning, natural language processing. -->
 <!-- - Presented at the EU Contest for Young Scientists 2021. -->
 - Received awards from:
