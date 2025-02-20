@@ -73,9 +73,12 @@ __Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
 
 ## Experience
 
-__Teaching Assistant in Hands-On Deep Learning__ (upcoming) \| ETH Zürich
-*Feb 2025 -- May 2025\**{: .date}
+__Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
+*Feb 2025 -- May 2025*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
+
+__Task Designer for AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai)
+*Feb 2025 -- May 2025*{: .date}
 
 __Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
@@ -92,7 +95,7 @@ __Head Teaching Assistant in Data Mining__ \| TU Delft
 - Assisted the course instructors in making the lab assignment rubrics and reference solutions.
 - Managed communication channels, and composed weekly FAQ reports.
 
-__Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI](duckduckgoose.ai)
+__Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://duckduckgoose.ai)
 *Jun 2022 -- Mar 2023*{: .date}
 - Designed, built, and maintained an ML data collection pipeline via task automation and reverse-engineering.
 - Implemented, tested and documented modifications in the main software-as-a-service API of the company.
