@@ -24,56 +24,28 @@ s.v.bratus@proton.me
 __ETH Zürich__, MSc Data Science (ongoing)
 *Sep 2024 -- Jun 2026\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
+<!--- Select coursework:-->
+<!--{: .columnize3 .indent }-->
+<!-- - Mathematics of Data Science -->
+<!-- - Planning for Autonomous Robots -->
+<!-- - Probabilistic AI -->
+<!-- - Big Data -->
+<!-- - Computational Semantics for NLP -->
 
 __TU Delft__, BSc Computer Science and Engineering
 *Sep 2021 -- Jun 2024*{: .date}
 
 - Graduated *cum laude* with GPA 8.5 (top 10% by Dutch grading)
 - Specialized in Data, with a minor in Mathematical Finance
-- Honours programme
-- Coursework:
-
-{: .columnize3 .indent }
-<!-- SWE -->
-  - __SWE:__ OOP Team Project (8.5)
-  - Software Eng. Methods (8.5)
-  - Software Quality & Testing (8.5)
-  - Software Project (9.0)
-<!-- Data -->
-  - __Data__: Machine Learning (9.0)
-  - Big Data Processing (9.0)
-  - Data Mining (9.0)
-  - Computational Intelligence (8.5)
-<!-- DB -->
-  - Database Technology & Mgmt
-<!-- Algo -->
-  - __Algo__: Algorithms & Data Structures
-  - Algorithm Design (8.5)
-  - Automata & Computability
-  - Algorithms for NP-Hard Problems
-<!-- Maths -->
-  - __Maths__: Reasoning & Logic (9.5)
-  - Calculus & Linear Algebra (8.5)
-  - Probability & Statistics (10.0)
-<!-- Misc -->
-<!-- Low-level -->
-  - __Other__: Computer Graphics
-  - Computer Organisation (9.5)
-  - Computer Networks (9.5)
-  - Computer Security
-  - Programming Languages (10.0)
-  - Functional Programming
-  - __Hons__: McDermott R&D Challenge
-  - Neuroscience Fundamentals
-  - Convex Optimization
-  
-__Tallinn Secondary School of Science__, Upper Secondary / Gymnasium
+- Honours programme with coursework in Neuroscience
+ 
+__Tallinn Secondary School of Science__, Upper Secondary
 *Sep 2018 -- Jun 2021*{: .date}
-- Graduated *summa cum laude* (top marks in all subjects & exams), specialized in programming.
+- Graduated *summa cum laude*, specialized in programming.
 
 ## Experience
 
-__Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
+__Teaching Assistant in Hands-On Deep Learning with PyTorch__ \| ETH Zürich
 *Feb 2025 -- May 2025*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
@@ -105,7 +77,6 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 <!-- *Tallinn, Estonia | Oct 2020 -- May 2021*{: .date} -->
 <!-- - Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity & C#. -->
 
-
 <div id="section-research-projects">
 
 ## Research projects
@@ -126,6 +97,31 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys
 
 </div>
 
+
+## Competitions
+
+__ETH Datathon 2025__ II place
+*Apr 2025*{: .date}
+
+
+<div id="section-skills">
+
+## Skills
+
+{: .columnize3 }
+- Python, PyTorch
+- C, C++ 
+- Linux, Bash, Git
+- Java, Clojure
+- TypeScript
+- Julia
+- SQL
+- Web scraping
+- Apache Spark & Flink
+
+</div>
+
+
 <div class="pb"> </div>
 
 <div id="section-coursework-projects">
@@ -141,25 +137,6 @@ __Software Engineering Methods:__ A microservice-based HR management system in J
 
 __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 *Oct 2022*{: .date}
-
-</div>
-
-
-<div id="section-skills">
-
-## Skills
-
-{: .columnize3 }
-- Python, PyTorch
-- C & C++ 
-- Julia
-- Linux, Bash, Git
-- Clojure
-- Java
-- TypeScript, Node.js
-- SQL
-- Web scraping
-- Apache Spark & Flink
 
 </div>
 
