@@ -39,18 +39,18 @@ __TU Delft__, BSc Computer Science and Engineering
 - Specialized in Data, with a minor in Mathematical Finance
 - Honours programme with coursework in Neuroscience
  
-__Tallinn Secondary School of Science__, Upper Secondary
-*Sep 2018 -- Jun 2021*{: .date}
-- Graduated *summa cum laude*, specialized in programming.
+<!-- __Tallinn Secondary School of Science__, Upper Secondary -->
+<!-- *Sep 2018 -- Jun 2021*{: .date} -->
+<!-- - Graduated *summa cum laude*, specialized in programming. -->
 
 ## Experience
 
 __Teaching Assistant in Hands-On Deep Learning with PyTorch__ \| ETH Zürich
-*Feb 2025 -- May 2025*{: .date}
+*Feb 2025 -- Dec 2025\**{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
 __Task Designer for AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai)
-*Feb 2025 -- May 2025*{: .date}
+*Feb 2025 -- Sep 2025\**{: .date}
 
 __Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
