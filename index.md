@@ -49,7 +49,8 @@ __Teaching Assistant in Hands-On Deep Learning with PyTorch__ \| ETH Zürich
 *Feb 2025 -- Dec 2025\**{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
-__Task Designer for AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai)
+<!-- __Task Designer for AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai) -->
+__Assistant in AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai)
 *Feb 2025 -- Sep 2025\**{: .date}
 
 __Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
