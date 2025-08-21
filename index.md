@@ -99,11 +99,13 @@ __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys
 </div>
 
 
-## Competitions
+## Events
 
 __ETH Datathon 2025__ II place
 *Apr 2025*{: .date}
 
+__Human Aligned AI Summer School__
+*Prague, Czechia | Jul 2025*{: .date}
 
 <div id="section-skills">
 
@@ -180,9 +182,6 @@ __EU Contest for Young Scientists '23__
 
 __TU Delft Book Club '23--'24__
 *Sep 2023 -- Jun 2024*{: .date}
-
-__JuliaCon Local Eindhoven '23__
-*Eindhoven, Netherlands | Dec 2023*{: .date}
 
 ## Membership in clubs
 
