@@ -22,7 +22,7 @@ s.v.bratus@proton.me
 ## Education
 
 __ETH Zürich__, MSc Data Science (ongoing)
-*Sep 2024 -- Jun 2026\**{: .date}
+*Sep 2024 -- Feb 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 <!--- Select coursework:-->
 <!--{: .columnize3 .indent }-->
@@ -35,7 +35,7 @@ __ETH Zürich__, MSc Data Science (ongoing)
 __TU Delft__, BSc Computer Science and Engineering
 *Sep 2021 -- Jun 2024*{: .date}
 
-- Graduated *cum laude* with GPA 8.5 (top 10% by Dutch grading)
+- Graduated *cum laude*, top 10%
 - Specialized in Data, with a minor in Mathematical Finance
 - Honours programme with coursework in Neuroscience
  
@@ -45,34 +45,32 @@ __TU Delft__, BSc Computer Science and Engineering
 
 ## Experience
 
-__Teaching Assistant in Hands-On Deep Learning with PyTorch__ \| ETH Zürich
-*Feb 2025 -- Dec 2025\**{: .date}
+__Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
+*Feb 2025 -- …*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
-<!-- __Task Designer for AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai) -->
-__Assistant in AI Reasoning Research__ \| [Giotto.ai➚](https://giotto.ai)
-*Feb 2025 -- Sep 2025\**{: .date}
+__Researcher__ \| [Giotto.ai➚](https://giotto.ai)
+*Feb 2025 -- …*{: .date}
 
-__Teaching Assistant, Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
+__Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
-- Assisted in the MSc module *Modeling, Uncertainty & Data for Engineers* at the Civil Eng. & GeoSc. faculty.
 - Developed custom GitHub Actions workflows to deploy course-related books on the web.
 
-__Intern in Advanced Analytics & NLP__ \| Van Lanschot Kempen
+__Data Analytics Intern__ \| Van Lanschot Kempen
 *Dec 2023 -- Jan 2024*{: .date}
-- Worked on applications of natural language processing in Non-Financial Risk Analytics.
+- Applied NLP in Non-Financial Risk Analytics.
 
 __Head Teaching Assistant in Data Mining__ \| TU Delft
 *Nov 2023 -- Feb 2024*{: .date}
-- Assisted students and fellow TAs with questions on lab sessions.
-- Assisted the course instructors in making the lab assignment rubrics and reference solutions.
-- Managed communication channels, and composed weekly FAQ reports.
+- Assisted students and TAs with questions on lab sessions.
+- Assisted in making assignment rubrics and reference solutions.
+- Managed communication channels, composed weekly FAQ reports.
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://duckduckgoose.ai)
 *Jun 2022 -- Mar 2023*{: .date}
-- Designed, built, and maintained an ML data collection pipeline via task automation and reverse-engineering.
-- Implemented, tested and documented modifications in the main software-as-a-service API of the company.
-- Worked on penetration-testing camera-based ID verification in mobile apps (e.g. banking apps).
+- Designed, built, and maintained an ML data collection pipeline, via task automation and reverse-engineering.
+- Pen-tested camera-based ID verification in mobile apps (e.g. banking apps).
+- Implemented modifications in the SaaS API.
 
 <!-- __Programming Class Instructor__ -->
 <!-- *Tallinn, Estonia | Oct 2020 -- May 2021*{: .date} -->
@@ -131,8 +129,8 @@ __Human Aligned AI Summer School__
 
 ## Coursework team projects
 
-__Software Project:__ Enhancing LaplaceRedux.jl, a Julia package for
-Bayesian Deep Learning \| [Medium Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+__Software Project:__ Contributing to a Julia package for
+Bayesian Deep Learning \| [Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
 *Apr -- Jun 2023*{: .date}
 
 __Software Engineering Methods:__ A microservice-based HR management system in Java
