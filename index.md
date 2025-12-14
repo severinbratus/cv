@@ -195,9 +195,9 @@ __Delft Writing Club__
 - __Estonian__ Fluent 
 - __Russian__ Native
 
-## Citizenship
+## Nationality
 
-- __Republic of Estonia__, EU
+- __Estonia__, EU
 
 <!-- ### Footer
 
