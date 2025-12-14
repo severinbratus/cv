@@ -49,7 +49,7 @@ __Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
 *Feb 2025 -- …*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 
-__Researcher__ \| [Giotto.ai➚](https://giotto.ai)
+__Researcher, part-time__ \| [Giotto.ai➚](https://giotto.ai)
 *Feb 2025 -- …*{: .date}
 
 __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
@@ -110,7 +110,7 @@ __Human Aligned AI Summer School__
 ## Skills
 
 {: .columnize3 }
-- Python, PyTorch
+- Python, PyTorch, HF
 - C, C++ 
 - Linux, Bash, Git
 - Java, Clojure
