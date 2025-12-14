@@ -68,7 +68,7 @@ __Head Teaching Assistant in Data Mining__ \| TU Delft
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://duckduckgoose.ai)
 *Jun 2022 -- Mar 2023*{: .date}
-- Designed, built, and maintained an ML data collection pipeline, via task automation and reverse-engineering.
+- Built a ML data collection pipeline, by reverse-engineering and automation.
 - Pen-tested camera-based ID verification in mobile apps (e.g. banking apps).
 - Implemented modifications in the SaaS API.
 
@@ -80,7 +80,7 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 
 ## Research projects
 
-__Generalisation Ability of Proper Value Equivalent Models in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
+__Generalisation of Proper Value Equivales in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
 *TU Delft | Jun 2024*{: .date}
 - BSc thesis, graded 9.0 / 10.0
 
