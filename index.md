@@ -54,7 +54,7 @@ __Researcher__ \| [Giotto.ai➚](https://giotto.ai)
 
 __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
-- Developed custom GitHub Actions workflows to deploy course-related books on the web.
+- Developed custom CI/CD workflows to deploy textbooks on the web.
 
 __Data Analytics Intern__ \| Van Lanschot Kempen
 *Dec 2023 -- Jan 2024*{: .date}
@@ -80,7 +80,7 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 
 ## Research projects
 
-__Generalisation of Proper Value Equivales in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
+__Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
 *TU Delft | Jun 2024*{: .date}
 - BSc thesis, graded 9.0 / 10.0
 
