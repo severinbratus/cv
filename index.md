@@ -14,10 +14,10 @@ title: Severin Bratus CV
 s.v.bratus@proton.me
 | <a href="https://github.com/severinbratus/">GitHub➚</a> <!-- arrows -->
 | <a href="https://www.linkedin.com/in/severin-bratus/">LinkedIn➚</a>
-| <a href="https://severinbratus.github.io/cv/">severinbratus.github.io/cv➚</a> 
+| <a href="https://severinbratus.github.io/cv/">severinbratus.io/cv➚</a> 
 </div>
 
-<!-- __*Aiming for a career in engineering & research of machine intelligence.*__ -->
+<!-- __*engineering & research of machine intelligence.*__ -->
 
 ## Education
 
@@ -78,21 +78,18 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 
 <div id="section-research-projects">
 
-## Research projects
+## Papers & research projects
 
-__Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learning__ \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
-*TU Delft | Jun 2024*{: .date}
-- BSc thesis, graded 9.0 / 10.0
+__A Survey on the Abstraction and Reasoning Corpus.__ Under review, TMLR. Lead author \| [Preprint➚](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177223087.76639882)
+*2026*{: .date}
+
+__Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learning.__ BSc Thesis \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
+*2024*{: .date}
+- Graded 9.0 / 10.0
 
 __Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
-*May 2020*{: .date}
-<!-- - Research paper on societal bias in machine learning, natural language processing. -->
-<!-- - Presented at the EU Contest for Young Scientists 2021. -->
-- Received awards from:
-  - Estonian National Contest for Young Scientists 2021 (III place)
-  - Institute of the Estonian Language
-  - Ministry of Economic Affairs and Communications, Ministry of Social Affairs
-  <!-- - Magazine *Horisont* -->
+*2020*{: .date}
+- Received awards from the Estonian Language Institute, and from Ministries of Economic & Social Affairs.
 
 </div>
 
@@ -110,7 +107,7 @@ __Human Aligned AI Summer School__
 ## Skills
 
 {: .columnize3 }
-- Python, PyTorch, HF
+- Python, PyTorch, HuggingFace
 - C, C++ 
 - Linux, Bash, Git
 - Java, Clojure
