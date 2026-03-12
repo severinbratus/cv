@@ -22,7 +22,7 @@ s.v.bratus@proton.me
 ## Education
 
 __ETH Zürich__, MSc Data Science (ongoing)
-*Sep 2024 -- Feb 2027\**{: .date}
+*Switzerland | Sep 2024 -- Feb 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 <!--- Select coursework:-->
 <!--{: .columnize3 .indent }-->
@@ -33,7 +33,7 @@ __ETH Zürich__, MSc Data Science (ongoing)
 <!-- - Computational Semantics for NLP -->
 
 __TU Delft__, BSc Computer Science and Engineering
-*Sep 2021 -- Jun 2024*{: .date}
+*Netherlands | Sep 2021 -- Jun 2024*{: .date}
 
 - Graduated *cum laude*, top 10%
 - Specialized in Data, with a minor in Mathematical Finance
