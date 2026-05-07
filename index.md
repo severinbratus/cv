@@ -46,11 +46,13 @@ __TU Delft__, BSc Computer Science and Engineering
 ## Experience
 
 __Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
-*Feb 2025 -- …*{: .date}
+*Feb 2025 -- Present*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
+- Taught on NLP, RL, GNNs, and Generative CV. 
 
-__Researcher, part-time__ \| [Giotto.ai➚](https://giotto.ai)
-*Feb 2025 -- …*{: .date}
+__Researcher / Software Engineer, part-time__ \| [Giotto.ai➚](https://giotto.ai)
+*Feb 2025 -- Present*{: .date}
+- Developed containerized infra, multi-agent orchestration, core API, and benchmarking.
 
 __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
@@ -62,7 +64,7 @@ __Data Analytics Intern__ \| Van Lanschot Kempen
 
 __Head Teaching Assistant in Data Mining__ \| TU Delft
 *Nov 2023 -- Feb 2024*{: .date}
-- Assisted students and TAs with questions on lab sessions.
+- Assisted students and TAs on lab sessions.
 - Assisted in making assignment rubrics and reference solutions.
 - Managed communication channels, composed weekly FAQ reports.
 
@@ -87,7 +89,7 @@ __Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learnin
 *2024*{: .date}
 - Graded 9.0 / 10.0
 
-__Gender stereotypes in Estonian word embeddings__ \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
+__Gender stereotypes in Estonian word embeddings.__ High-school thesis \|  [Poster➚](https://eucys2021.usal.es/wp-content/uploads/2021/07/Social-Sciences-01-2021.png)
 *2020*{: .date}
 - Received awards from the Estonian Language Institute, and from Ministries of Economic & Social Affairs.
 
