@@ -22,7 +22,7 @@ s.v.bratus@proton.me
 ## Education
 
 __ETH Zürich__, MSc Data Science (ongoing)
-*Switzerland | Sep 2024 -- Feb 2027\**{: .date}
+*Switzerland | Sep 2024 -- Mar 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 <!--- Select coursework:-->
 <!--{: .columnize3 .indent }-->
@@ -45,14 +45,14 @@ __TU Delft__, BSc Computer Science and Engineering
 
 ## Experience
 
+__Researcher / Software Engineer, part-time__ \| [Giotto.ai➚](https://giotto.ai)
+*Feb 2025 -- Sep 2026*{: .date}
+- Developed containerized infra, multi-agent orchestration, core API, and benchmarking.
+
 __Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
-*Feb 2025 -- Present*{: .date}
+*Feb 2025 -- May 2026*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
 - Taught on NLP, RL, GNNs, and Generative CV. 
-
-__Researcher / Software Engineer, part-time__ \| [Giotto.ai➚](https://giotto.ai)
-*Feb 2025 -- Present*{: .date}
-- Developed containerized infra, multi-agent orchestration, core API, and benchmarking.
 
 __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/)
 *Feb 2024 -- Dec 2024*{: .date}
@@ -82,7 +82,7 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 
 ## Papers & research projects
 
-__A Survey on the Abstraction and Reasoning Corpus.__ Under review, TMLR. Lead author \| [Preprint➚](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177223087.76639882)
+__A Survey on the Abstraction and Reasoning Corpus.__ In TMLR. Lead author. Awarded *Survey Certification* \| [Link➚](https://openreview.net/pdf?id=qzFxBcK9Cg)
 *2026*{: .date}
 
 __Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learning.__ BSc Thesis \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
