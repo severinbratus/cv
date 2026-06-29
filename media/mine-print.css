@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: HN;
+    font-family: HN, "Helvetica Neue", Helvetica, Inter, sans-serif;
     font-size: 10pt;
     color: black;
 }
