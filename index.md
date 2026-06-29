@@ -5,8 +5,6 @@ title: Severin Bratus CV
 
 {::options parse_block_html="true" /}
 
-<!-- ![me](me.jpg){: .abs-top-right .img-size} -->
-
 # Severin Bratus
 
 <div id="contact">
@@ -17,20 +15,12 @@ s.v.bratus@proton.me
 | <a href="https://severinbratus.github.io/cv/">severinbratus.io/cv➚</a> 
 </div>
 
-<!-- __*engineering & research of machine intelligence.*__ -->
 
 ## Education
 
 __ETH Zürich__, MSc Data Science (ongoing)
 *Switzerland | Sep 2024 -- Mar 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
-<!--- Select coursework:-->
-<!--{: .columnize3 .indent }-->
-<!-- - Mathematics of Data Science -->
-<!-- - Planning for Autonomous Robots -->
-<!-- - Probabilistic AI -->
-<!-- - Big Data -->
-<!-- - Computational Semantics for NLP -->
 
 __TU Delft__, BSc Computer Science and Engineering
 *Netherlands | Sep 2021 -- Jun 2024*{: .date}
@@ -39,9 +29,6 @@ __TU Delft__, BSc Computer Science and Engineering
 - Specialized in Data, with a minor in Mathematical Finance
 - Honours programme with coursework in Neuroscience
  
-<!-- __Tallinn Secondary School of Science__, Upper Secondary -->
-<!-- *Sep 2018 -- Jun 2021*{: .date} -->
-<!-- - Graduated *summa cum laude*, specialized in programming. -->
 
 ## Experience
 
@@ -76,7 +63,7 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 
 <!-- __Programming Class Instructor__ -->
 <!-- *Tallinn, Estonia | Oct 2020 -- May 2021*{: .date} -->
-<!-- - Instructed pupils of grades 5-9 at the Tallinn Secondary School of Science in game development with Unity & C#. -->
+<!-- - Instructed pupils of grades 5--9 at the Tallinn Secondary School of Science in game development with Unity & C#. -->
 
 <div id="section-research-projects">
 
@@ -145,29 +132,16 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 
 ## Personal projects
 
-<!-- - [__meta-chess__](https://github.com/severinbratus/metachess) - Self-modifying chess in React (WIP) -->
 __Linux UVCVideo with Record/Replay Modes__ \| [GitHub➚](https://github.com/severinbratus/uvcvideo-record-replay)
 *2024*{: .date}
 - Modifications to a Linux webcam driver to record & replay raw frames
-<!-- - [__mylm__](https://github.com/severinbratus/mylm) - A 3-D open-world roguelike (WIP) -->
 
-<!-- {: .columnize2 } -->
 __Cheat Chess__ \| [GitHub➚](https://github.com/severinbratus/cheat-chess/tree/main)
 *2022*{: .date}
 - A multiplayer chess web-app. Includes a fog-of-war chess variant
 
 </div>
 
-
-<!-- ## Online courses -->
-
-<!-- __[Mathematics and Python for Data Analysis](https://coursera.org/share/e7b9a1d5be8237a5f24b6a341432d919)__ | Moscow Institute of Physics and Technology & Yandex  -->
-<!--   Sep 2020 -->
-
-<!-- __[Geometry and Groups](https://coursera.org/share/79cd3591e7b990b7f996dfe4ddff95b8)__ | Moscow Institute of Physics and Technology & Dmitry Pozharsky University -->
-<!--   Oct 2020 -->
-<!-- {: columnize2 } -->
-<!-- - Interpretation of geometry through group theory. -->
 
 ## Volunteering
 
@@ -198,6 +172,3 @@ __Delft Writing Club__
 
 - __Estonia__, EU
 
-<!-- ### Footer
-
-Last updated: 26 Sep 2022 -->
