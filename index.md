@@ -22,7 +22,7 @@ __ETH Zürich__, MSc Data Science (ongoing)
 *Switzerland | Sep 2024 -- Mar 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
-__TU Delft__, BSc Computer Science and Engineering
+__TU Delft__, BSc Computer Science & Engineering
 *Netherlands | Sep 2021 -- Jun 2024*{: .date}
 
 - Graduated *cum laude*, top 10%
@@ -45,10 +45,6 @@ __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl
 *Feb 2024 -- Dec 2024*{: .date}
 - Developed custom CI/CD workflows to deploy textbooks on the web.
 
-__Data Analytics Intern__ \| Van Lanschot Kempen
-*Dec 2023 -- Jan 2024*{: .date}
-- Applied NLP in Non-Financial Risk Analytics.
-
 __Head Teaching Assistant in Data Mining__ \| TU Delft
 *Nov 2023 -- Feb 2024*{: .date}
 - Assisted students and TAs on lab sessions.
@@ -59,17 +55,13 @@ __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://
 *Jun 2022 -- Mar 2023*{: .date}
 - Built a ML data collection pipeline, by reverse-engineering and automation.
 - Pen-tested camera-based ID verification in mobile apps (e.g. banking apps).
-- Implemented modifications in the SaaS API.
-
-<!-- __Programming Class Instructor__ -->
-<!-- *Tallinn, Estonia | Oct 2020 -- May 2021*{: .date} -->
-<!-- - Instructed pupils of grades 5--9 at the Tallinn Secondary School of Science in game development with Unity & C#. -->
+- Worked on SaaS API.
 
 <div id="section-research-projects">
 
 ## Papers & research projects
 
-__A Survey on the Abstraction and Reasoning Corpus.__ In TMLR. Lead author. Awarded *Survey Certification* \| [Link➚](https://openreview.net/pdf?id=qzFxBcK9Cg)
+__A Survey on the Abstraction and Reasoning Corpus.__ TMLR. Lead author. *Survey Certification* \| [Link➚](https://openreview.net/pdf?id=qzFxBcK9Cg)
 *2026*{: .date}
 
 __Generalisation of Value-Equivalent Models in Model-Based Reinforcement Learning.__ BSc Thesis \| [Link➚](http://resolver.tudelft.nl/uuid:49da7493-2cff-4fd0-85f7-0ee0f9219b26)
@@ -98,7 +90,7 @@ __Human Aligned AI Summer School__
 {: .columnize3 }
 - Python, PyTorch, HuggingFace
 - C, C++ 
-- Linux, Bash, Git
+- Linux, Bash, Git, Docker
 - Java, Clojure
 - TypeScript
 - Julia
@@ -115,15 +107,15 @@ __Human Aligned AI Summer School__
 
 ## Coursework team projects
 
-__Software Project:__ Contributing to a Julia package for
-Bayesian Deep Learning \| [Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
-*Apr -- Jun 2023*{: .date}
+__Data Sci Lab:__ Patterns for composing LLM calls \| [Repo➚](https://github.com/swiss-ai/dsl25-8-llm-programs)
+*2025*{: .date}
 
-__Software Engineering Methods:__ A microservice-based HR management system in Java
-*Nov -- Dec 2022*{: .date}
+__Deep Learning Project:__ Hessian dynamics of Muon optimizer
+*2025*{: .date}
 
-__Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
-*Oct 2022*{: .date}
+__Software Project:__ Bayesian Deep Learning, uncertainty estimation, in Julia
+\| [Article➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
+*2023*{: .date}
 
 </div>
 
@@ -132,13 +124,13 @@ __Computer Graphics:__ A ray-casting rendering engine in C++ with OpenGL
 
 ## Personal projects
 
-__Linux UVCVideo with Record/Replay Modes__ \| [GitHub➚](https://github.com/severinbratus/uvcvideo-record-replay)
+__Linux UVCVideo with Record/Replay Modes__ \| [Repo➚](https://github.com/severinbratus/uvcvideo-record-replay)
 *2024*{: .date}
 - Modifications to a Linux webcam driver to record & replay raw frames
 
-__Cheat Chess__ \| [GitHub➚](https://github.com/severinbratus/cheat-chess/tree/main)
+__Cheat Chess__ \| [Repo➚](https://github.com/severinbratus/cheat-chess/tree/main)
 *2022*{: .date}
-- A multiplayer chess web-app. Includes a fog-of-war chess variant
+- A multiplayer fog-of-war chess web-app
 
 </div>
 
