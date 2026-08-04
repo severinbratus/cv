@@ -19,7 +19,7 @@ s.v.bratus@proton.me
 ## Education
 
 __ETH Zürich__, MSc Data Science (ongoing)
-*Switzerland | Sep 2024 -- Mar 2027\**{: .date}
+*Switzerland | Sep 2024 -- 2027\**{: .date}
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
 __TU Delft__, BSc Computer Science & Engineering
@@ -32,7 +32,7 @@ __TU Delft__, BSc Computer Science & Engineering
 
 ## Experience
 
-__Researcher / Software Engineer, part-time__ \| [Giotto.ai➚](https://giotto.ai)
+__Research Engineer, part-time__ \| [Giotto.ai➚](https://giotto.ai)
 *Feb 2025 -- Sep 2026*{: .date}
 - Developed containerized infra, multi-agent orchestration, core API, and benchmarking.
 
