@@ -31,7 +31,7 @@ __TU Delft__, BSc Computer Science & Engineering
 ## Experience
 
 __Research Engineer__ \| [Giotto.ai➚](https://giotto.ai) *(part-time)*
-*Feb 2025 -- Sep 2026*{: .date}
+*Oct 2025 -- Sep 2026*{: .date}
 - Containerized infra, multi-agent orchestration, core API, benchmarking (incl. jailbreaks)
 
 __Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
