@@ -93,13 +93,13 @@ __Gender stereotypes in Estonian word embeddings.__ High-school thesis \|  [Post
 
 ## Coursework team projects
 
-__Data Science Lab:__ Patterns for composing LLM calls \| [Repo➚](https://github.com/swiss-ai/dsl25-8-llm-programs)
+__ETH Data Science Lab:__ Patterns for composing LLM calls \| [Repo➚](https://github.com/swiss-ai/dsl25-8-llm-programs)
 *2025*{: .date}
 
-__Deep Learning Project:__ Hessian dynamics of Muon optimizer
+__ETH Deep Learning Project:__ Hessian dynamics of Muon optimizer
 *2025*{: .date}
 
-__Software Project:__ Bayesian deep learning, uncertainty estimation, in Julia
+__TUD Software Project:__ Bayesian deep learning, uncertainty estimation, in Julia
 \| [Blogpost➚](https://medium.com/@sbratus/an-introduction-to-laplace-approximations-for-bayesian-deep-learning-in-julia-c5a30cfaf7b5)
 *2023*{: .date}
 
