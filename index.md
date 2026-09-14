@@ -20,7 +20,7 @@ s.v.bratus@proton.me
 
 __ETH Zürich__, MSc Data Science *(ongoing)*
 *Switzerland | Sep 2024 -- 2027\**{: .date}
-- GPA 5.3 / 6
+- GPA 5.2 / 6
 - Awarded the [Estonian Students' Fund](https://esfusa.org/eng/index) scholarship
 
 __TU Delft__, BSc Computer Science & Engineering
@@ -32,20 +32,20 @@ __TU Delft__, BSc Computer Science & Engineering
 
 __Research Engineer__ \| [Giotto.ai➚](https://giotto.ai) *(part-time)*
 *Oct 2025 -- Sep 2026*{: .date}
-- Containerized infra, multi-agent orchestration, core API, benchmarking (incl. jailbreaks)
+- Infra, multi-agent orchestration, benchmarking (incl. jailbreaks), distributed training
 
 __Teaching Assistant in Hands-On Deep Learning__ \| ETH Zürich
 *Feb 2025 -- May 2026*{: .date}
 <!-- https://disco.ethz.ch/courses/fs25/hodl/ -->
-- Taught on NLP, RL, GNNs, and Generative CV. 
+- Taught on NLP, RL, GNNs, and Generative CV
 
 __Software Engineer__ \| TU Delft, [TeachBooks➚](https://teachbooks.tudelft.nl/) *(part-time)*
 *Feb 2024 -- Dec 2024*{: .date}
-- Developed custom CI/CD workflows to deploy textbooks on the web.
+- Developed custom CI/CD workflows to deploy textbooks on the web
 
 __Head Teaching Assistant in Data Mining__ \| TU Delft
 *Nov 2023 -- Feb 2024*{: .date}
-- Assisted students and TAs on lab sessions; assisted in preparing rubrics & ref solutions.
+- Assisted students and TAs on lab sessions; assisted in preparing rubrics & ref solutions
 
 __Software Engineer, "Chief Hacking Officer"__ \| [DuckDuckGoose AI➚](https://duckduckgoose.ai) *(part-time)*
 *Jun 2022 -- Mar 2023*{: .date}
